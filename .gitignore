@@ -1,0 +1,11 @@
+# Node frontend
+frontend/node_modules
+frontend/dist
+
+# Java backend
+backend/target
+backend/.idea
+backend/.vscode
+
+# System files
+.DS_Store
