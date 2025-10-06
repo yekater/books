@@ -58,3 +58,7 @@ A fullstack CRUD application for managing books, built with **React (Vite) front
 - JSON responses include data + meta (page, pageSize, total)
 - Ready for local demo and further deployment
 - Built to demonstrate full-stack CRUD capabilities with React + Spring Boot
+
+
+##  📌 [Project Presentation](https://www.canva.com/design/DAG0-FF3stc/qQn4iOByXd7kRDH0JK5h8Q/edit?utm_content=DAG0-FF3stc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
